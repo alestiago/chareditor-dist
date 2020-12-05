@@ -1,5 +1,5 @@
 # Chareditor
-## Authors' notice
+## Author's notice
 This project was made as a side project using TypeScript and SCSS.
 
 Note this code is minimised, it is not the source code. I am planning to open source the project soon.
